@@ -39,7 +39,7 @@
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/sayak-mitra-majumder-a42a76200/) <!-- Replace with your actual LinkedIn -->
-- ✉️ Email: Sayakmitra16@gmail.com <!-- Replace with your actual email -->
+- ✉️ Sayakmitra16@gmail.com <!-- Replace with your actual email -->
 - 🧠 [LeetCode](https://leetcode.com/u/ReversibleWizard/)  
 ---
 
