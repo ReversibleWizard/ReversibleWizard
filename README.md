@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sayak
+# Hi there 👋 I'm Sayak
 
 🎓 Final-year B.Tech student in Computer Science & Communication Engineering at KIIT  
 💻 Backend-focused developer passionate about systems, APIs, cloud, and building solutions with impact
