@@ -194,10 +194,10 @@ Consistent practice in data structures and algorithms with emphasis on **time/sp
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <div align="center">
-    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReversibleWizard&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9" alt="top langs" />
+    <img width="39%" src="https://github-readme-stats-blond-nine-15.vercel.app//api/top-langs/?username=ReversibleWizard&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9" alt="top langs" />
     <img width="59%" src="https://github-readme-stats.vercel.app/api?username=ReversibleWizard&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&bg_color=0d1117&title_color=6E40C9&icon_color=0891b2&text_color=c9d1d9&include_all_commits=true" alt="github stats" />
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReversibleWizard&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=0891b2&currStreakLabel=c9d1d9&border_radius=10" alt="streak stats" />
+    <img src="https://streak-stats.demolab.com/?user=ReversibleWizard&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=0891b2&currStreakLabel=c9d1d9&border_radius=10" alt="streak stats" />
     <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReversibleWizard&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6E40C9&line=0891b2&point=c9d1d9" alt="activity graph" />
   </div>
