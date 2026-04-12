@@ -1,30 +1,40 @@
 <div align="center">
-
 <!-- Animated typing header -->
 <a href="https://github.com/ReversibleWizard">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sayak+Mitra+Majumder+%F0%9F%91%8B;AI+Engineer+%7C+Backend+Developer;Building+Intelligent+Systems+at+Scale" alt="Typing SVG" />
 </a>
-
 <br/>
-
+<!-- Status pills — flat-square style, compact and modern -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend%20Engineering-6E40C9?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Domain-LLMs%20%7C%20RAG%20%7C%20REST%20APIs-0891b2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡%20Focus-AI%20%26%20Backend%20Engineering-6E40C9?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🧠%20Domain-LLMs%20%7C%20RAG%20%7C%20REST%20APIs-0891b2?style=flat-square&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/✅%20Status-Open%20to%20Opportunities-22c55e?style=flat-square&labelColor=0d1117" />
 </p>
-
-<!-- Social links aligned right, visitor badge left — mirrors Aayush's layout -->
-<a href="https://www.linkedin.com/in/sayak-mitra-majumder/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:Sayakmitra16@gmail.com"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/ReversibleWizard/" target="_blank"><img align="right" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-
-[![Visits Badge](https://komarev.com/ghpvc/?username=ReversibleWizard&label=Profile%20views&color=6E40C9&style=for-the-badge)](https://github.com/ReversibleWizard)
-
+<br/>
+<!-- Social links — icon-only flat-square style, consistent sizing, dark background -->
+<p>
+  <a href="https://www.linkedin.com/in/sayak-mitra-majumder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="mailto:Sayakmitra16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/ReversibleWizard/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ReversibleWizard" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=black" height="28" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ReversibleWizard&label=Profile+Views&color=6E40C9&style=flat-square" height="28" />
+</p>
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- About section with floating gif — mirrors Aayush's layout -->
 <a href="https://github.com/ReversibleWizard" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" /></a>
 
 <h3>Building backends that <i>think</i> & systems that <i>scale</i>.</h3>
