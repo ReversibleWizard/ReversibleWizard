@@ -13,29 +13,31 @@
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=for-the-badge&logoColor=white" />
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/sayak-mitra-majumder/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ReversibleWizard">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:Sayakmitra16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/ReversibleWizard/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+<!-- Social links aligned right, visitor badge left — mirrors Aayush's layout -->
+<a href="https://www.linkedin.com/in/sayak-mitra-majumder/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:Sayakmitra16@gmail.com"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/ReversibleWizard/" target="_blank"><img align="right" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=ReversibleWizard&label=Profile+Views&color=6E40C9&style=flat-square" alt="profile views" />
+[![Visits Badge](https://komarev.com/ghpvc/?username=ReversibleWizard&label=Profile%20views&color=6E40C9&style=for-the-badge)](https://github.com/ReversibleWizard)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- About section with floating gif — mirrors Aayush's layout -->
+<a href="https://github.com/ReversibleWizard" target="_blank"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" /></a>
+
+<h3>Building backends that <i>think</i> & systems that <i>scale</i>.</h3>
+
+- 🤖 &nbsp; Architecting **LLM-powered applications** with RAG pipelines and vector search
+- ⚙️ &nbsp; Backend engineering with **Python, Flask, Django & REST APIs**
+- 🧩 &nbsp; Consistent DSA practice — Arrays, Trees, Graphs, Dynamic Programming
+- 🌱 &nbsp; Currently deepening expertise in **DevOps & Cloud Infrastructure**
+- 💼 &nbsp; **Open to full-time roles & internships** — [Sayakmitra16@gmail.com](mailto:Sayakmitra16@gmail.com)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 〔 About Me 〕
 
@@ -44,56 +46,74 @@ class SayakMitraMajumder:
     role        = "AI Engineer · Backend Developer · Systems Builder"
     university  = "KIIT University — B.Tech, CSE (Communication Engineering)"
     focus       = ["LLM Applications", "RAG Pipelines", "Scalable Backend Systems"]
-    building    = "AI-powered applications that sit at the intersection of NLP and engineering"
+    building    = "AI-powered applications at the intersection of NLP and engineering"
     interests   = ["FinTech", "Product-Based Companies", "Distributed Systems"]
     languages   = ["Python", "Java", "JavaScript", "C++", "SQL"]
 ```
 
 I architect backend systems powered by AI — from RAG-based retrieval pipelines to REST APIs built for production scale. My work sits at the intersection of **Language Models**, **system design**, and **clean backend engineering**.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 〔 Tech Stack 〕
 
-### ⚡ Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<!-- go-skill-icons renders beautiful labeled icon tiles — borrowed from Aayush -->
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,javascript,cpp,flask,django,react,postgresql,mysql,mongodb,redis,git,github,docker,aws,linux,postman&theme=dark&titles=true)](https://github.com/ReversibleWizard)
 
-### 🛠️ Frameworks & APIs
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
+**Specialized in:** `LLM APIs` &nbsp; `RAG Pipelines` &nbsp; `Vector DBs (Qdrant)` &nbsp; `REST API Design` &nbsp; `Prompt Engineering`
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ☁️ Tools & Infrastructure
+## 〔 Featured Projects 〕
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FLAGSHIP PROJECT — full-width card with elevated visual weight -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+### 🚀 Student's Corner — AI-Powered Career & Learning Platform &nbsp; `[ Flagship ]`
+
+> *A modular multi-agent AI platform delivering personalized career preparation, code intelligence, and adaptive learning workflows through orchestrated AI pipelines.*
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🏗️ Architecture & Backend**
+- Engineered a **modular FastAPI backend** with a shared database/repository layer powering multiple independent AI agents from a single service layer
+- Integrated **Spring Boot middleware** handling authentication, resume parsing, and backend request orchestration between frontend and AI services
+- Designed **persistent session architecture** with MongoDB-backed pipeline and state storage, including interrupted-session recovery and graceful resumption
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI Orchestration**
+- Built a unified platform integrating three specialized agents: **AI Interviewer**, **Code Reviewer**, and **Adaptive Roadmap Generator** — each operating as an isolated, stateful pipeline
+- Implemented **multi-model orchestration** across OpenAI, Anthropic (Claude), and ElevenLabs APIs, routing to the appropriate model per agent's task profile
+- Engineered a **graph-based roadmap generation pipeline** with dynamic node updates, progress tracking, and version restoration support
+
+</td>
+</tr>
+</table>
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motor-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-6E40C9?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white" />
 </p>
 
 ---
 
-## 〔 Featured Projects 〕
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Supporting projects — 2×2 grid                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%">
-
 <tr>
 <td width="50%" valign="top">
 
@@ -113,14 +133,13 @@ I architect backend systems powered by AI — from RAG-based retrieval pipelines
 > *AI-driven adaptive learning platform with performance analytics*
 
 - Adaptive assessment engine that adjusts difficulty based on learner response patterns
-- Real-time performance feedback pipeline integrated into student dashboard
-- Modular backend architecture supporting multi-subject content delivery
+- Real-time feedback pipeline integrated into a multi-subject student dashboard
+- Modular backend architecture designed for extensibility across content domains
 
 `Python` `AI/ML` `REST APIs` `Backend`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -141,16 +160,15 @@ I architect backend systems powered by AI — from RAG-based retrieval pipelines
 
 - Enforces role-based access control across customer and admin tiers
 - Transaction integrity maintained with relational schema and constraint validation
-- Structured Java OOP design with separation of service and data layers
+- Structured Java OOP design with clean separation of service and data layers
 
 `Java` `SQL` `OOP` `RBAC`
 
 </td>
 </tr>
-
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 〔 Problem Solving 〕
 
@@ -164,26 +182,29 @@ I architect backend systems powered by AI — from RAG-based retrieval pipelines
 
 Consistent practice in data structures and algorithms with emphasis on **time/space complexity optimization** and clean problem decomposition.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 〔 GitHub Stats 〕
+<!-- Collapsible stats section — borrowed from Aayush, keeps profile clean -->
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="22"> &ensp;
+    <b>GitHub Stats Overview</b>
+  </summary>
 
-<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ReversibleWizard&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&icon_color=0891b2&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReversibleWizard&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9" />
+  <div align="center">
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReversibleWizard&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true&bg_color=0d1117&title_color=6E40C9&text_color=c9d1d9" alt="top langs" />
+    <img width="59%" src="https://github-readme-stats.vercel.app/api?username=ReversibleWizard&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&bg_color=0d1117&title_color=6E40C9&icon_color=0891b2&text_color=c9d1d9&include_all_commits=true" alt="github stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReversibleWizard&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=0891b2&currStreakLabel=c9d1d9&border_radius=10" alt="streak stats" />
+    <br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReversibleWizard&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6E40C9&line=0891b2&point=c9d1d9" alt="activity graph" />
+  </div>
 
-<br/>
+</details>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReversibleWizard&theme=tokyonight&hide_border=true&background=0d1117&ring=6E40C9&fire=0891b2&currStreakLabel=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReversibleWizard&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6E40C9&line=0891b2&point=c9d1d9" />
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 〔 Certifications 〕
 
@@ -193,7 +214,7 @@ Consistent practice in data structures and algorithms with emphasis on **time/sp
   <img src="https://img.shields.io/badge/Meta%20React%20Native-Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
