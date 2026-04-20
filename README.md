@@ -68,7 +68,7 @@ I architect backend systems powered by AI — from RAG-based retrieval pipelines
 ## 〔 Tech Stack 〕
 
 <!-- go-skill-icons renders beautiful labeled icon tiles — borrowed from Aayush -->
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,javascript,cpp,flask,django,react,postgresql,mysql,mongodb,redis,git,github,docker,aws,linux,postman&theme=dark&titles=true)](https://github.com/ReversibleWizard)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,java,javascript,cpp,fastapi,flask,django,react,postgresql,mysql,mongodb,redis,git,github,docker,aws,linux,postman&theme=dark&titles=true)](https://github.com/ReversibleWizard)
 
 **Specialized in:** `LLM APIs` &nbsp; `RAG Pipelines` &nbsp; `Vector DBs (Qdrant)` &nbsp; `REST API Design` &nbsp; `Prompt Engineering`
 
